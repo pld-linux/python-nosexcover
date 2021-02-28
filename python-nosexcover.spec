@@ -22,6 +22,7 @@ BuildRequires:	python-setuptools
 BuildRequires:	python-coverage >= 3.4
 BuildRequires:	python-nose
 %endif
+%endif
 %if %{with python3}
 BuildRequires:	python3-modules >= 1:3.2
 BuildRequires:	python3-setuptools
