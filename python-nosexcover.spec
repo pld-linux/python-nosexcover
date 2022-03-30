@@ -8,7 +8,7 @@ Summary:	nose.plugins.cover extension to add Cobertura-style XML reports
 Summary(pl.UTF-8):	Rozszerzenie nose.plugins.cover dodające raporty XML w stylu Cobertury
 Name:		python-nosexcover
 Version:	1.0.11
-Release:	5
+Release:	6
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/nosexcover/
